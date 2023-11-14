@@ -1,0 +1,14 @@
+@media screen and (max-width: 1024px) {
+    .container {
+        min-height: auto; /* Adjust as needed */
+    }
+
+    .card {
+        width: 80%; /* Adjust as needed */
+        height: auto; /* Adjust as needed */
+    }
+
+    .card img {
+        height: auto; /* Adjust as needed */
+    }
+}
